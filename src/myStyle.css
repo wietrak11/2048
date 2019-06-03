@@ -1,0 +1,74 @@
+#menu-class{
+-fx-background-color: linear-gradient(to bottom, #f2b179 0%,#ede0c8 100%);
+}
+#game-class {
+-fx-background-image: url('/Game/assets/tlo.jpg');
+}
+#title{
+-fx-fill:rgb(85,78,71);
+-fx-font-size: 40px;
+-fx-font-family: "Helvetica";
+}
+#startGame{
+-fx-text-fill:rgb(85,78,71);
+-fx-font: 22 arial;
+-fx-base: rgb(238,228,218);
+}
+#highscores{
+-fx-text-fill:rgb(85,78,71);
+-fx-font: 22 arial;
+-fx-base: rgb(238,228,218);
+}
+#credits{
+-fx-text-fill:rgb(85,78,71);
+-fx-font: 22 arial;
+-fx-base: rgb(238,228,218);
+}
+#exit{
+-fx-text-fill:rgb(85,78,71);
+-fx-font: 22 arial;
+-fx-base: rgb(238,228,218);
+}
+#startGame:hover {
+-fx-base: rgb(237,194,46);
+}
+#highscores:hover {
+-fx-base: rgb(237,194,46);
+}
+#credits:hover {
+-fx-base: rgb(237,194,46);
+}
+#exit:hover {
+-fx-base: rgb(237,194,46);
+}
+#credits-class{
+-fx-background-color: linear-gradient(to bottom, #f2b179 0%,#ede0c8 100%);
+}
+#backbtn{
+-fx-font: 22 arial;
+-fx-base: rgb(238,228,218);
+}
+#credits1{
+-fx-fill:rgb(85,78,71);
+-fx-font-size: 50px;
+-fx-font-family: "Helvetica";
+}
+#credits2{
+-fx-fill:rgb(85,78,71);
+-fx-font-size: 40px;
+-fx-font-family: "Helvetica";
+}
+#score{
+-fx-fill:rgb(85,78,71);
+-fx-font-size: 25px;
+-fx-font-family: "Helvetica";
+}
+#bestScore{
+-fx-fill:rgb(85,78,71);
+-fx-font-size: 25px;
+-fx-font-family: "Helvetica";
+}
+#backGame{
+-fx-font: 20 Helvetica;
+-fx-base: rgb(238,228,218);
+}
